@@ -4,5 +4,3 @@
 
 rild.libpath=/system/lib/libsec-ril.so
 rild.libargs=-d /dev/ttyS0
-
-qemu.hw.mainkeys=0
