@@ -1,5 +1,10 @@
 [
  {
+   "repository":  "android_device_samsung_galaxys2-common",
+   "target_path": "device/samsung/galaxys2-common",
+   "branch":      "kk-4.4"
+ },
+ {
    "repository":  "android_kernel_samsung_smdk4412",
    "target_path": "kernel/samsung/smdk4412",
    "branch":      "kk-4.4"
